@@ -5,10 +5,3 @@ function clik(){
 function whattime(){
   document.getElementById("info").textContent = new Date();
 }
-// var timerId;
-// function timeoutStart(){
-//   timerId = setTimeout(whattime, 3000);
-// }
-// function whattime(){
-//   document.getElementById("info").textContent = new Date();
-// }
